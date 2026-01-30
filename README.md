@@ -1,4 +1,4 @@
-## Hello World I'm Abduh Dzaky 👋
+## Hello, Nice to See You! 👋
 
 ![AbduhDzaky](img/github-header-banner.png)
 
