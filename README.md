@@ -7,23 +7,6 @@
 # 💫 About Me:
 I like building things with code and watching ideas turn into something real. Enjoy the process of shaping concepts into functional digital experiences.<br>
 
-## 🏢 Work Experience
-
-```diff
-+ Current Position:
-- Role        : Full Stack Developer
-- Company     : Scover GTU
-- Focus       : End-to-end web development solutions
-- Technologies: React, Node.js, PHP, Laravel
-
-+ Previous Experience:
-- Role        : Web Developer Intern
-- Company     : ForestTraine
-- Achievement : Contributed to forest management systems
-- Skills      : Frontend development, API integration
-```
-
-
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abduhdzaky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amuhabduhdzaky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abduhdzaky000@gmail.com) 
